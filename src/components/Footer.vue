@@ -26,8 +26,8 @@
           <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
             {{ siteIcp }}
           </a>
-          <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
-            {{ siteIcp }}
+          <a v-if="siteGaicp" href="http://www.beian.gov.cn/portal/registerSystemInfo" target="_blank">
+            {{ siteGaicp }}
           </a>
         </span>
       </div>
